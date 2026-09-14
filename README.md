@@ -3,6 +3,12 @@
 生物医学工程科研编程 · 第一周练习仓库
 从「会 Python 基础」到「能用 Python 独立处理科研数据」。
 
+> 仓库地址：https://github.com/Mjing-bme/bme-python-week1
+> 作者：Mj（中南大学生物工程 · 生医工/电子信息方向备考）
+>
+> 学习路线：Python → NumPy/Pandas/Matplotlib/SciPy → Git →
+> 生物医学数据分析 → 生物医学信号处理 → ECG/EEG → 机器学习 → 深度学习 → 医学图像
+
 ## 环境
 
 | 项目 | 版本 |
