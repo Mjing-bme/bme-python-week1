@@ -1,0 +1,21 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# ---- 环境 ----
+.venv/
+venv/
+env/
+
+# ---- 数据：不把数据文件传上 GitHub ----
+# 规则：原始数据与处理结果都能由 data/make_data.py 重新生成，
+# 所以仓库里只保留"生成脚本"，不保留"数据本身"。
+# 这也是科研界的通行做法（数据放专门的数据仓库，代码放 GitHub）。
+data/*.csv
+outputs/*.csv
+
+# ---- 编辑器 / 系统 ----
+.vscode/settings.json
+.DS_Store
+Thumbs.db
