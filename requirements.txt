@@ -1,6 +1,7 @@
 # 运行环境（自动生成，不要手改；换电脑时照这个装回来）
 # 生成日期：2026-03-01
-# Python 版本：3.13.9（Anaconda 发行版，安装路径 E:\Anaconda）
+# Python 版本：3.13.9（Anaconda base 环境，安装路径 E:\Anaconda）
+# 本项目统一使用该环境；VS Code 解释器与 Jupyter 内核均选 "Python 3.13 (bme-base)"
 
 numpy==2.3.5
 pandas==2.3.3
